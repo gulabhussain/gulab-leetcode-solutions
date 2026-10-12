@@ -111,3 +111,15 @@ If you find this repository helpful, consider giving it a star ⭐.
 Thank you for visiting my repository!
 
 **Happy Coding! 🚀**
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0046-permutations](https://github.com/gulabhussain/gulab-leetcode-solutions/tree/master/0046-permutations) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/gulabhussain/gulab-leetcode-solutions/tree/master/0046-permutations) |
+<!---LeetCode Topics End-->
