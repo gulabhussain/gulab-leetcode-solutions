@@ -119,6 +119,7 @@ Thank you for visiting my repository!
 | ------- |
 | [0046-permutations](https://github.com/gulabhussain/gulab-leetcode-solutions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/gulabhussain/gulab-leetcode-solutions/tree/master/0051-n-queens) |
+| [0912-sort-an-array](https://github.com/gulabhussain/gulab-leetcode-solutions/tree/master/0912-sort-an-array) |
 ## Backtracking
 |  |
 | ------- |
@@ -128,4 +129,32 @@ Thank you for visiting my repository!
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/gulabhussain/gulab-leetcode-solutions/tree/master/0051-n-queens) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/gulabhussain/gulab-leetcode-solutions/tree/master/0912-sort-an-array) |
+## Sorting
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/gulabhussain/gulab-leetcode-solutions/tree/master/0912-sort-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/gulabhussain/gulab-leetcode-solutions/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/gulabhussain/gulab-leetcode-solutions/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/gulabhussain/gulab-leetcode-solutions/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/gulabhussain/gulab-leetcode-solutions/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/gulabhussain/gulab-leetcode-solutions/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
