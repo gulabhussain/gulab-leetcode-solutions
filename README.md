@@ -161,11 +161,13 @@ Thank you for visiting my repository!
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/gulabhussain/gulab-leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0141-linked-list-cycle](https://github.com/gulabhussain/gulab-leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/gulabhussain/gulab-leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/gulabhussain/gulab-leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0141-linked-list-cycle](https://github.com/gulabhussain/gulab-leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/gulabhussain/gulab-leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 ## Stack
 |  |
@@ -175,4 +177,12 @@ Thank you for visiting my repository!
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/gulabhussain/gulab-leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+## Hash Table
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/gulabhussain/gulab-leetcode-solutions/tree/master/0141-linked-list-cycle) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/gulabhussain/gulab-leetcode-solutions/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
