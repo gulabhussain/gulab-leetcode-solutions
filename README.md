@@ -157,4 +157,12 @@ Thank you for visiting my repository!
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/gulabhussain/gulab-leetcode-solutions/tree/master/0912-sort-an-array) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/gulabhussain/gulab-leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/gulabhussain/gulab-leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
