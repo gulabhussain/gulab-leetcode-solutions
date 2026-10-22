@@ -185,4 +185,24 @@ Thank you for visiting my repository!
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/gulabhussain/gulab-leetcode-solutions/tree/master/0141-linked-list-cycle) |
+## Tree
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/gulabhussain/gulab-leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/gulabhussain/gulab-leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/gulabhussain/gulab-leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/gulabhussain/gulab-leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/gulabhussain/gulab-leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
